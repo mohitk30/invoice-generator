@@ -1,0 +1,21 @@
+.navbar_title{
+    font-size: 2rem;
+}
+.navbarContainer{
+    padding: 12px;
+    display: flex;
+    flex-direction: row;
+}
+.newInvoiceButton{
+    margin: auto;
+    margin-right: 2px;
+}
+.invoicesList{
+    padding: 12px;
+}
+.totalInvoices{
+    padding: 8px;  
+      font-weight: 600;
+      width: 100%;
+      font-size: 1.04rem;
+}
