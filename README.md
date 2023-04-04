@@ -7,6 +7,8 @@ An Invoice creator project built with React. Add itemized items, configure quant
 
 Live link : https://invoice-generator-rho-two.vercel.app/
 
+On the loading of the live link you will see a already text invoice , you can try other functionality over their or you can add new invoices.
+
 You need to preview the invoice and then save it ko keep it in redux store.
 Then go back to invoices with the top left button you will see their list of invoices
 
